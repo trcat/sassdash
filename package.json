@@ -1,6 +1,6 @@
 {
-  "name": "sassdash",
-  "version": "0.9.0",
+  "name": "@trcat/sassdash",
+  "version": "0.1.0",
   "description": "The Sass implementation of lodash.",
   "main": "scss/_sassdash.scss",
   "directories": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidkpiano/sassdash.git"
+    "url": "https://github.com/trcat/sassdash.git"
   },
   "keywords": [
     "sassdash",
@@ -34,5 +34,8 @@
   "bugs": {
     "url": "https://github.com/davidkpiano/sassdash/issues"
   },
-  "homepage": "https://github.com/davidkpiano/sassdash"
+  "homepage": "https://github.com/davidkpiano/sassdash",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
