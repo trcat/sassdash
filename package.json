@@ -32,10 +32,7 @@
   "author": "David Khourshid <davidkpiano@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davidkpiano/sassdash/issues"
+    "url": "https://github.com/trcat/sassdash/issues"
   },
-  "homepage": "https://github.com/davidkpiano/sassdash",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/davidkpiano/sassdash"
 }
